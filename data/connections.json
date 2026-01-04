@@ -177,7 +177,7 @@
       "id": "conn-022-vittery",
       "from": "MAG-022",
       "to": "MAG-016",
-      "type": "location_continuation",
+      "type": "location",
       "color": "#8B4513",
       "label": "Boothby Road Investigation",
       "description": "Martin Blackwood's statement is a direct follow-up to his investigation of Carlos Vittery's flat at Boothby Road, the primary location from MAG-016.",
