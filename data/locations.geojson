@@ -1,0 +1,896 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.191319, 55.950647]
+  },
+  "properties": {
+    "place": "Old Fishmarket Close, Edinburgh, Scotland",
+    "statement": "MAG-001",
+    "entity": "The Stranger",
+    "summary": "Statement of Nathan Watts regarding an encounter on Old Fishmarket Close. He describes a swaying figure in a dark alley that appeared to be suspended in the air, repeating 'Can I have a cigarette?' without moving its mouth.",
+    "date": "April 22, 2012",
+    "statement_giver": "Nathan Watts",
+    "supplemental": "Six disappearances were recorded in the area between 2005 and 2010. A photograph taken by the statement giver was submitted with the statement",
+    "archivist_note": "Investigation found no evidence to corroborate the account. The photograph is inconclusive but appears to show a thin shape resembling a hand.",
+    "content_warnings": "Alcohol use, body horror, missing persons",
+    "episode": "001"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.880134, 52.370432]
+  },
+  "properties": {
+    "place": "Elandsstraat, Amsterdam, Netherlands",
+    "statement": "MAG-002",
+    "entity": "The Buried",
+    "summary": "Joshua Gillespie meets 'John' in an Amsterdam café where he's offered £10,000 to watch a mysterious package. Initial encounter that leads to the coffin delivery.",
+    "date": "May 1997 (approx)",
+    "statement_giver": "Joshua Gillespie",
+    "supplemental": "Encounter occurred while Gillespie was on a post-graduation trip to Amsterdam with friends.",
+    "archivist_note": "Part of Joshua Gillespie's statement about the mysterious coffin. The Amsterdam encounter sets up the main events in Bournemouth.",
+    "content_warnings": "Drug use",
+    "episode": "002",
+    "location_type": "initial_encounter",
+    "related_to": "Bournemouth coffin location"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.884779, 50.720301]
+  },
+  "properties": {
+    "place": "The Triangle, Bournemouth, Dorset, England",
+    "statement": "MAG-002",
+    "entity": "The Buried",
+    "summary": "Joshua Gillespie's flat where the mysterious coffin was stored for almost 2 years. The coffin was warm, scratched from inside, and made moaning sounds in the rain. Marked 'Do Not Open'.",
+    "date": "1997-1999",
+    "statement_giver": "Joshua Gillespie",
+    "supplemental": "Housing records show Gillespie was the only resident in the entire building during his tenancy. Building was demolished after he left.",
+    "archivist_note": "Investigation confirmed Gillespie was the sole resident in his building. Breekon and Hope delivery service existed but records are unavailable.",
+    "content_warnings": "Sleep disorders, confinement, suffocation themes",
+    "episode": "002",
+    "location_type": "primary",
+    "related_to": "Amsterdam encounter location"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.1376839039488047, 51.455611059589955]
+  },
+  "properties": {
+    "place": "Clapham, London, England",
+    "statement": "MAG-003",
+    "entity": "The Eye",
+    "summary": "A London street where Amy Patel witnessed a many-limbed creature enter her neighbour Graham Folger’s flat. After Graham vanished, a figure identical in appearance returned, watching Patel silently from across the street. Patel believes this was not Graham, but something that had replaced him.",
+    "date": "July 1, 2007",
+    "statement_giver": "Amy Patel",
+    "supplemental": "Graham Folger's parents died in a car accident on M1 near Sheffield in 2001. Flat was sold in early 2007.",
+    "archivist_note": "Medical records show no long-term head trauma. Graham Folger existed but later photos show a different person. A recovered journal repeats 'Keep Watching'.",
+    "content_warnings": "Abduction, scopophobia, supernatural impersonation",
+    "episode": "003"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.20043702327590698, 51.51775893880996]
+  },
+  "properties": {
+    "place": "The Gate Theatre, Notting Hill, London",
+    "statement": "MAG-004",
+    "entity": "The Vast",
+    "summary": "Dominic Swain attends a matinee performance of The Trojan Women after purchasing a strange book from a nearby charity shop. During the performance, he experiences unusual physical sensations and notices a persistent smell of ozone.",
+    "date": "June 28, 2013",
+    "statement_giver": "Dominic Swain",
+    "supplemental": "The play featured Katherine Mendes, an acquaintance. Swain worked as a theatre technician at various West End venues.",
+    "archivist_note": "No evidence of 'Ex Altiora' in known catalogues. Jurgen Leitner's books continue to be problematic. Donation records at Oxfam show only anonymous donations.",
+    "content_warnings": "Heights & falling, body horror, murder",
+    "episode": "004",
+    "location_type": "cultural_venue"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.191942, 51.394367]
+  },
+  "properties": {
+    "place": "Morden, London, England",
+    "statement": "MAG-004",
+    "entity": "The Vast",
+    "summary": "Location of Mary Keay's bookshop Pinhole Books, where Dominic Swain witnessed strange phenomena involving Leitner books.",
+    "date": "June 28, 2013",
+    "statement_giver": "Dominic Swain",
+    "supplemental": "Mary Keay was murdered in 2008. Her skin was removed and written on in Sanskrit. Bookshop was closed until 2014.",
+    "archivist_note": "Police report confirms details of Mary Keay's death and the Sanskrit writing on her skin. Gerard Keay was acquitted of her murder.",
+    "content_warnings": "Murder, body horror, animal remains",
+    "episode": "004"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.03993748714354036, 51.59505089889766]
+  },
+  "properties": {
+    "place": "93 Lancaster Road, Walthamstow, London, England",
+    "statement": "MAG-005",
+    "entity": "The Stranger / The Spiral",
+    "summary": "Residence where mysterious, ritualistic bags of items were repeatedly left for trash collection: doll heads, Latin prayer paper, human teeth, and finally a metal heart with Alan Parfitt's name.",
+    "date": "2008-2009",
+    "statement_giver": "Kieran Woodward",
+    "supplemental": "Occupied by an elderly couple unaware of the bags. Alan Parfitt went missing after investigating the house.",
+    "archivist_note": "Police confirmed the bag of teeth contained 2,780 human teeth, all the same tooth. Alan Parfitt remains missing. No further bags appeared after the metal heart.",
+    "content_warnings": "Human remains, body horror, stalking, abduction",
+    "episode": "005"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.11186334547081454, 51.46188898313509]
+  },
+  "properties": {
+    "place": "Dogstar, Brixton, London, England",
+    "statement": "MAG-006",
+    "entity": "The Corruption",
+    "summary": "Nightclub where Timothy Hodge met Harriet Lee. She appeared nervous and was later revealed to be infected by Jane Prentiss.",
+    "date": "November 2014",
+    "statement_giver": "Timothy Hodge",
+    "supplemental": "Harriet Lee was a student from Salisbury studying art. She was being followed by Jane Prentiss.",
+    "archivist_note": "Harriet Lee was reported missing. Police found no human remains in Hodge's flat fire, but charred organic matter was present.",
+    "content_warnings": "Sexual references, parasitic infection, death, worms, mugging, fire",
+    "episode": "006"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.11682511230477077, 51.46152080820392]
+  },
+  "properties": {
+    "place": "Brixton, London, England",
+    "statement": "MAG-006",
+    "entity": "The Corruption",
+    "summary": "Location of Timothy Hodge's flat where he brought Harriet Lee. After sex, she burst into a pile of writhing worms, prompting Hodge to burn the flat down.",
+    "date": "November 2014",
+    "statement_giver": "Timothy Hodge",
+    "supplemental": "Flat fire occurred on November 20, 2014. No evidence of arson or human remains found, but charred organic matter was present.",
+    "archivist_note": "Police report confirms the fire but no arson. Harriet Lee was reported missing. Connection to Jane Prentiss confirmed.",
+    "content_warnings": "Body horror, parasitic infection, death, fire",
+    "episode": "006"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.13131584546487526, 51.56582474848363]
+  },
+  "properties": {
+    "place": "Elthorne Road, Archway, London, England",
+    "statement": "MAG-006",
+    "entity": "The Corruption",
+    "summary": "Location where Harriet Lee was attacked by an unknown woman in a long red dress, resulting in a parasitic infection that rapidly worsened.",
+    "date": "November 2014",
+    "statement_giver": "Timothy Hodge (via Harriet Lee)",
+    "supplemental": "Harriet described the attacker as a woman in a long red dress with matted black hair and wide eyes.",
+    "archivist_note": "Matches the description and last known location of Jane Prentiss. Harriet Lee went missing shortly after.",
+    "content_warnings": "Mugging, parasitic infection, stalking",
+    "episode": "006"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [3.292165318354832, 49.847335309236556]
+  },
+  "properties": {
+    "place": "Savy, France",
+    "statement": "MAG-007",
+    "entity": "The Slaughter",
+    "summary": "Location where Staff Sergeant Clarence Berry witnessed Wilfred Owen hear the Piper's tune before being seemingly killed in a mortar blast. Owen later returned, changed.",
+    "date": "1917",
+    "statement_giver": "Clarence Berry",
+    "supplemental": "Wilfred Owen was found days later in a shell hole, surrounded by the remains of another soldier, Joseph Rayner.",
+    "archivist_note": "Statement filed in 1922 but misplaced among modern records. Joseph Rayner's name noted as familiar by Jonathan Sims.",
+    "content_warnings": "War violence, gore, body horror, mass death",
+    "episode": "007"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [3.646539356345854, 50.0682821584119]
+  },
+  "properties": {
+    "place": "Sambre-Oise Canal, France",
+    "statement": "MAG-007",
+    "entity": "The Slaughter",
+    "summary": "Where Wilfred Owen died under mysterious circumstances—a bullet hole opened in his forehead like an eye as the Piper claimed him.",
+    "date": "November 4, 1918",
+    "statement_giver": "Clarence Berry",
+    "supplemental": "Owen died just days before the Armistice. Clarence Berry believes his death directly enabled the peace.",
+    "archivist_note": "Historical records confirm Wilfred Owen's death at the Sambre-Oise Canal on November 4, 1918.",
+    "content_warnings": "Murder, supernatural death, war trauma",
+    "episode": "007"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.2227331356654239, 51.74916988183375]
+  },
+  "properties": {
+    "place": "Hill Top Road, Oxford, England",
+    "statement": "MAG-008",
+    "entity": "The Desolation",
+    "summary": "Site of a house with a troubled history: originally owned by Raymond Fielding, later burned down with his remains found inside. Ivo Lensik experienced hauntings, burning sensations, and uprooted a bleeding tree containing a cursed apple.",
+    "date": "2006-2007",
+    "statement_giver": "Ivo Lensik",
+    "supplemental": "A girl named Agnes lived in the house decades earlier before it burned down. Her later fate is unclear.",
+    "archivist_note": "No records confirm the halfway house. Agnes Montague's death coincides with Lensik uprooting the tree. Two families have lived there since with no further incidents.",
+    "content_warnings": "Fire, suicide, human remains, spiders, schizophrenia, exorcism",
+    "episode": "008"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [0.22786863918731937, 51.441828156577444]
+  },
+  "properties": {
+    "place": "York Road, Dartford, England",
+    "statement": "MAG-009",
+    "entity": "The Slaughter",
+    "summary": "Home of Robert Montauk, where he murdered at least 40 people and preserved their hearts in his shed as part of a ritual to protect his daughter from a supernatural entity.",
+    "date": "1990-1995",
+    "statement_giver": "Julia Montauk",
+    "supplemental": "Robert Montauk was a former policeman. The shed contained 40 preserved hearts arranged in sacred geometric patterns. The pendant symbol matches the Peoples' Church of the Divine Host.",
+    "archivist_note": "Maxwell Rayner's cult involved. Christopher Lorne was a member. The shed was demolished and replaced with a patio.",
+    "content_warnings": "Serial murder, gore, human remains, ritual sacrifice",
+    "episode": "009"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.228762074187961,53.48511305245902]
+  },
+  "properties": {
+    "place": "Loom Street, Manchester, England",
+    "statement": "MAG-010",
+    "entity": "The Flesh",
+    "summary": "Location of Sylvia McDonald's house where Trevor Herbert's brother Nigel was killed by a vampire in 1959. The house burned down in the same fire Trevor started.",
+    "date": "1959",
+    "statement_giver": "Trevor Herbert",
+    "supplemental": "News report confirms a fire in 1959 that killed an 18-year-old boy (Nigel Herbert). No mention of the homeowner.",
+    "archivist_note": "House was torn down. Trevor Herbert claimed to have killed the vampire Sylvia McDonald there.",
+    "content_warnings": "Death, blood, stabbing, fire, homelessness",
+    "episode": "010"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.254364754878117,53.48141186693358]
+  },
+  "properties": {
+    "place": "Manchester, England",
+    "statement": "MAG-010",
+    "entity": "The Flesh",
+    "summary": "General area where Trevor Herbert lived as a homeless man and hunted vampires over decades, including the killing of Robert Arden in 1968.",
+    "date": "1968-2010",
+    "statement_giver": "Trevor Herbert",
+    "supplemental": "Robert Arden disappeared under violent circumstances in 1968. Trevor Herbert died of lung cancer at the Magnus Institute after giving his statement.",
+    "archivist_note": "Police report confirms Robert Arden's disappearance. Shark-like teeth were left with the statement but are now missing.",
+    "content_warnings": "Death, vampirism, addiction, homelessness",
+    "episode": "010"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.160886272458528, 51.48423973297109]
+  },
+  "properties": {
+    "place": "The Magnus Institute Archives, London, England",
+    "statement": "MAG-011",
+    "entity": "The Eye",
+    "summary": "The archive building where Antonio Blake’s recurring dream ends. He describes seeing London as a network of deaths connected by vein-like paths, culminating in a fearful face resembling Gertrude Robinson.",
+    "date": "2015",
+    "statement_giver": "Antonio Blake",
+    "supplemental": "Blake's dreams predict deaths in London. He dreamed the Institute was the focal point of a network of death-veins.",
+    "archivist_note": "Statement given under a pseudonym. Jonathan Sims suspects it may be a prank but is unsettled by the mention of Gertrude Robinson's death.",
+    "content_warnings": "Mass death, body horror, predictive dreams, suicide",
+    "episode": "011"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.11886444546872175,51.499314167085565]
+  },
+  "properties": {
+    "place": "St. Thomas' Hospital, Lambeth, London, England",
+    "statement": "MAG-012",
+    "entity": "The Desolation / The Eye",
+    "summary": "A hospital ward where nurse Lesere Saraki encountered two severely burned men under impossible circumstances. The ward became increasingly isolated, and one patient died in a sudden fire.",
+    "date": "December 23, 2011",
+    "statement_giver": "Lesere Saraki",
+    "supplemental": "Gerard Keay killed the cultist with a scalpel, causing the body to burn to ash. CCTV showed patients mysteriously leaving and an eye appearing in the feed.",
+    "archivist_note": "Hospital records confirm admissions. Gerard Keay died of a brain tumor in 2014. The phrase 'lightless flame' is linked to Asag, a Sumerian demon.",
+    "content_warnings": "Burns, hospitals, fire, murder, isolation",
+    "episode": "012"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [0.6977317673397608, 51.28447599803382]
+  },
+  "properties": {
+    "place": "Moorland House, Kent, England",
+    "statement": "MAG-013",
+    "entity": "The Lonely",
+    "summary": "Lukas family estate where Evan Lukas's funeral was held. Naomi Herne experienced profound isolation, rejection by the family, and later became lost in a foggy, empty graveyard.",
+    "date": "March 2015",
+    "statement_giver": "Naomi Herne",
+    "supplemental": "Evan Lukas died of congenital heart failure. The Lukas family is wealthy and reclusive",
+    "archivist_note": "No cemeteries match Naomi's description. She was found holding a carved headstone fragment reading 'forgotten'.",
+    "content_warnings": "Isolation, grief, death, funerals",
+    "episode": "013"
+  }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0062853692735290925, 51.460885984156405]
+      },
+      "properties": {
+        "place": "Lewisham, London, England",
+        "statement": "MAG-014",
+        "entity": "The Flesh",
+        "summary": "A side street where Lee Rentoul was beaten up by Paul Noriega's men, leading him to decide he needed an unconventional method of revenge.",
+        "date": "2010 (approx)",
+        "statement_giver": "Lee Rentoul",
+        "supplemental": "Rentoul describes it as a 'grim side street' where he was left with bruised ribs.",
+        "archivist_note": "No specific investigation noted. Part of Rentoul's narrative establishing motive.",
+        "content_warnings": "Violence, assault",
+        "episode": "014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1546419214139857, 51.43950427236253]
+      },
+      "properties": {
+        "place": "Bexley, London, England",
+        "statement": "MAG-014",
+        "entity": "The Flesh",
+        "summary": "A well-kept suburban house where Lee Rentoul and Toby McMullen met 'Angela', the old woman who performed a ritual using Noriega's lighter to curse him piece by piece.",
+        "date": "2010 (approx)",
+        "statement_giver": "Lee Rentoul",
+        "supplemental": "The house was filled with completed jigsaw puzzles. Angela asked for an object taken from Noriega (a lighter). Martin later tried and failed to locate her.",
+        "archivist_note": "Martin spent three days searching for an 'Angela' in Bexley over 50 with no success.",
+        "content_warnings": "Supernatural ritual, implied murder, curses",
+        "episode": "014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.012312185810691831, 51.500672361631096]
+      },
+      "properties": {
+        "place": "London Docks, London, England",
+        "statement": "MAG-014",
+        "entity": "The Flesh",
+        "summary": "A dockside warehouse where Lee Rentoul stalked and murdered Paul Noriega. He found Noriega already missing body parts (fingers, an eye, teeth) due to Angela's curse.",
+        "date": "2010 (approx)",
+        "statement_giver": "Lee Rentoul",
+        "supplemental": "Noriega was there to meet a fence named Salesa. Rentoul stabbed him to death and discovered his altered state.",
+        "archivist_note": "Police records show Noriega's last interaction was two months before Rentoul's statement. No body was found.",
+        "content_warnings": "Graphic murder, stabbing, body horror, dismemberment",
+        "episode": "014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.05083438779265595, 51.59834466074335]
+      },
+      "properties": {
+        "place": "Tottenham Marshes, London, England",
+        "statement": "MAG-014",
+        "entity": "The Flesh",
+        "summary": "Location of a metal bridge over a stream where Lee Rentoul found the first 'gift' box addressed to him, containing a severed finger. This marked the beginning of the curse transferring to him.",
+        "date": "2011",
+        "statement_giver": "Lee Rentoul",
+        "supplemental": "Rentoul was there 'on business'. After opening the box, he accidentally cut off his own little finger, which healed instantly.",
+        "archivist_note": "Part of the statement's account of the curse's effects. No physical evidence investigated.",
+        "content_warnings": "Body horror, self-mutilation, supernatural curse",
+        "episode": "014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.50903, 54.21196]
+      },
+      "properties": {
+        "place": "Leck Fell, Lancashire, England",
+        "statement": "MAG-015",
+        "entity": "The Buried",
+        "summary": "The surface area where Laura and Alena parked to access Death's Head Hole and the Three Counties cave system. Laura noted it was strangely empty on a perfect caving day.",
+        "date": "June 14, 2014",
+        "statement_giver": "Laura Popham",
+        "supplemental": "The closest legal parking spot to their entry point. Laura's husband Alistair knew this location for the rescue call.",
+        "archivist_note": "CNCC records show other permits for that day, contradicting Laura's claim they were alone. The Yorkshire Dales Cave Rescue Organisation was activated from here.",
+        "content_warnings": "Missing persons, isolation",
+        "episode": "015",
+        "location_type": "entry_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5106402144047704, 54.20745515153458]
+      },
+      "properties": {
+        "place": "Death's Head Hole, Leck Fell, Lancashire, England",
+        "statement": "MAG-015",
+        "entity": "The Buried",
+        "summary": "The initial pothole entry point for Laura and Alena's caving expedition. Described as unimpressive and overgrown. Laura was later found unconscious near the bottom by rescuers.",
+        "date": "June 14-15, 2014",
+        "statement_giver": "Laura Popham",
+        "supplemental": "Rescue team found Laura kneeling by burned-out candles, which were not packed. She claims a different, impossible exit.",
+        "archivist_note": "Official rescue report contradicts Laura's statement. She was found inside the cave, not on the surface.",
+        "content_warnings": "Claustrophobia, confinement, psychological trauma, missing persons",
+        "episode": "015",
+        "location_type": "cave_entrance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.506249, 54.202512]
+      },
+      "properties": {
+        "place": "Lost John's Cave, Three Counties System, Yorkshire Dales, England",
+        "statement": "MAG-015",
+        "entity": "The Buried",
+        "summary": "The main cave system explored. Contains features like 'The Cathedral' and 'The Crypt'. Site of the supernatural event: Alena disappears after a dive, and the cave's layout becomes impossible, trapping Laura. The entity of the cave is linked to the story of two lost men named John.",
+        "date": "June 14, 2014",
+        "statement_giver": "Laura Popham",
+        "supplemental": "Alena researched the cave's history about two lost men named John. The cave diving sump here is where events turned supernatural.",
+        "archivist_note": "Laura's described route is 'borderline nonsensical' according to maps. The entity appears to have taken Alena and manipulated space.",
+        "content_warnings": "Extreme claustrophobia, thalassophobia, spatial disorientation, sibling death, drowning themes, supernatural imprisonment",
+        "episode": "015",
+        "location_type": "supernatural_site"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.13201738779450906, 51.566285962284645]
+      },
+      "properties": {
+        "place": "Boothby Road, Archway, London, England",
+        "statement": "MAG-016",
+        "entity": "The Web",
+        "summary": "Carlos Vittery's apartment building where his arachnophobia escalated. He was tormented and ultimately killed by a recurring, malevolent spider. His body was found completely encased in web.",
+        "date": "2014-2015",
+        "statement_giver": "Carlos Vittery",
+        "supplemental": "Vittery chose this building for its lack of gardens. He got a cat, Major Tom, to kill spiders. The spider he killed in 1991 returned here to haunt and eventually kill him.",
+        "archivist_note": "Carlos Vittery was found dead in his flat over a week after giving his statement. Cause: asphyxiation by 'foreign organic material'. His body was encased in spider webs.",
+        "content_warnings": "Arachnophobia, animal death, supernatural compulsion, choking, infestation, death",
+        "episode": "016",
+        "location_type": "residence_supernatural_death"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5766086820822467, 50.87345415040928]
+      },
+      "properties": {
+        "place": "The New Forest, near Southampton, England",
+        "statement": "MAG-016",
+        "entity": "The Web",
+        "summary": "Location of Carlos Vittery's childhood trauma in 1991. He tripped and crushed a spider, bursting its egg sac and covering himself in thousands of baby spiders, which caused his lifelong arachnophobia. The 'ghost spider' that haunted him was this same spider.",
+        "date": "1991",
+        "statement_giver": "Carlos Vittery",
+        "supplemental": "The event occurred in his grandparents' garden on the edge of the New Forest suburbs. He described a fallen log with a spider and egg sac.",
+        "archivist_note": "This is the origin point of Vittery's fear and the specific entity that later killed him. The Web's influence appears to have marked him here.",
+        "content_warnings": "Arachnophobia, childhood trauma, infestation, body horror",
+        "episode": "016",
+        "location_type": "trauma_origin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2609548012932687, 51.49180679435006]
+      },
+      "properties": {
+        "place": "Chiswick Library, London, England",
+        "statement": "MAG-017",
+        "entity": "The Flesh",
+        "summary": "The public library where Sebastian Adekoya worked and where the Leitner book 'The Boneturner's Tale' first appeared. The book, returned by Michael Crew, began the chain of events that transformed Jared Hopworth. Jared later broke in to reclaim it.",
+        "date": "1996-1999",
+        "statement_giver": "Sebastian Adekoya",
+        "supplemental": "The library had a fake Chiswick label over an older label from 'Jergensburg or Jurgenleit' (a reference to Jurgen Leitner). Sebastian found the book and other returns 'bleeding'.",
+        "archivist_note": "Jonathan Sims confirms this is another Leitner book from Jurgen Leitner's library. Jared Hopworth and the book vanished. Sebastian Adekoya died in 2006 under suspicious circumstances.",
+        "content_warnings": "Body horror, gore, violence, animal disfigurement",
+        "episode": "017",
+        "location_type": "library_supernatural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.25473032744514573, 51.48996369073214]
+      },
+      "properties": {
+        "place": "Chiswick (Residential Street), London, England",
+        "statement": "MAG-017",
+        "entity": "The Flesh",
+        "summary": "The residential street where Sebastian Adekoya and Jared Hopworth grew up and still lived in the 1990s. Sebastian witnessed a disfigured pet rat here, an early sign of Jared's experiments with 'The Boneturner's Tale'.",
+        "date": "1996",
+        "statement_giver": "Sebastian Adekoya",
+        "supplemental": "Sebastian saw a white pet rat with a flattened, deformed back half dragging itself under a streetlight near Jared's house.",
+        "archivist_note": "This location is the setting for the early, subtle effects of the Leitner book on Jared Hopworth before his full transformation.",
+        "content_warnings": "Animal disfigurement, body horror",
+        "episode": "017",
+        "location_type": "residence_secondary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.19205456081183161, 51.45675524628401]
+      },
+      "properties": {
+        "place": "Welbeck House, Wandsworth Town Centre, London, England",
+        "statement": "MAG-018",
+        "entity": "The Flesh",
+        "summary": "A five-storey block of flats where Christof Rudenko lived on the ground floor. His upstairs neighbour, Toby Carlisle, filled his flat with rotting meat nailed to every surface. The pile of meat in the kitchen was a living entity with many eyes.",
+        "date": "2002-2007",
+        "statement_giver": "Christof Rudenko",
+        "supplemental": "Toby Carlisle was a reclusive owner-occupier. The police and a hazmat team were called. Carlisle died of gangrene. The source of the vast quantities of meat remains unknown.",
+        "archivist_note": "Police and medical records confirm the incident and Carlisle's death. Financial records show no purchases of meat. Christof Rudenko confirmed the statement after counselling.",
+        "content_warnings": "Extreme body horror, putrefaction, meat, human remains, infestation (maggots/flies), emetophobia, death",
+        "episode": "018",
+        "location_type": "residence_supernatural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2379527128635226, 51.74553250659789]
+      },
+      "properties": {
+        "place": "89 Bullingdon Road, Oxford, England",
+        "statement": "MAG-019",
+        "entity": "Unknown",
+        "summary": "The student house where Bethany O'Connor claimed to live and where Father Burroughs found the word 'Mentis' (Latin for 'mind') painted on an exposed brick wall. Bethany could not see the writing. Burroughs would later murder two students here.",
+        "date": "December 2005 (approx)",
+        "statement_giver": "Father Edwin Burroughs",
+        "supplemental": "Letting agent records show no one legally living there that year. Bethany attacked a college porter, not a housemate. Burroughs was found here with two murdered students.",
+        "archivist_note": "Site of both the initial supernatural encounter and the culminating murders. The 'Mentis' writing and Burroughs' hallucinations are connected.",
+        "content_warnings": "Religious abuse, supernatural compulsion, graphic injury, death, mental manipulation, murder, cannibalism",
+        "episode": "019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.256610697514705, 51.750113893164745]
+      },
+      "properties": {
+        "place": "St Aldate's, Oxford, England",
+        "statement": "MAG-019",
+        "entity": "Unknown",
+        "summary": "The chaplaincy where Father Burroughs worked and where he was first approached by Father Singh about Bethany O'Connor. Burroughs later had a disturbing encounter with a distorted version of Father Singh here.",
+        "date": "2005",
+        "statement_giver": "Father Edwin Burroughs",
+        "supplemental": "Part of the Diocese of Oxford. Burroughs was one of two exorcists.",
+        "archivist_note": "Setting for the initial referral and a key hallucination/encounter during Burroughs' breakdown.",
+        "content_warnings": "Supernatural manipulation, altered reality",
+        "episode": "019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2188766435334983, 51.76508030895495]
+      },
+      "properties": {
+        "place": "John Radcliffe Hospital, Oxford, England",
+        "statement": "MAG-019",
+        "entity": "Unknown",
+        "summary": "Hospital where Bethany O'Connor died after Father Burroughs' failed exorcism. Nurse Anne 'Annie' Willett worked here and later contacted Burroughs about Ivo Lensik.",
+        "date": "2005",
+        "statement_giver": "Father Edwin Burroughs",
+        "supplemental": "Bethany died of a brain hemorrhage. Burroughs was blamed.",
+        "archivist_note": "Site of a pivotal supernatural failure and death. Connection point between Burroughs and Nurse Willett.",
+        "content_warnings": "Graphic injury, death, failed exorcism, hospitals",
+        "episode": "019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2609824594057688, 51.75989618301961]
+      },
+      "properties": {
+        "place": "The Oratory, Woodstock Road, Oxford, England",
+        "statement": "MAG-020",
+        "entity": "Unknown",
+        "summary": "A Catholic church where Father Burroughs experienced a vivid and disturbing hallucination during Mass, believing the congregation and ritual to be profoundly wrong.",
+        "date": "2009 (approx)",
+        "statement_giver": "Father Edwin Burroughs",
+        "supplemental": "The stole vanished shortly after delivery. Burroughs' hallucination paralleled his actual crimes at 89 Bullingdon Road.",
+        "archivist_note": "The altar server in the hallucination showed active agency. The Breekon and Hope delivery links this location to other statements.",
+        "content_warnings": "Extreme hallucinations, religious desecration, implied cannibalism, ritual",
+        "episode": "020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.508881021830615, 53.688686179801834]
+      },
+      "properties": {
+        "place": "Wakefield Prison, West Yorkshire, England",
+        "statement": "MAG-020",
+        "entity": "Unknown",
+        "summary": "HM Prison where Father Edwin Burroughs is serving two life sentences for the murder and mutilation of two students.",
+        "date": "2011",
+        "statement_giver": "Father Edwin Burroughs",
+        "supplemental": "Burroughs gave his statement to the Magnus Institute from here. HMPS refused a follow-up interview.",
+        "archivist_note": "Current location of the statement giver.",
+        "content_warnings": "Incarceration",
+        "episode": "020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.7401441869346272, 53.577624367008525]
+      },
+      "properties": {
+        "place": "Althorpe, Lincolnshire, England",
+        "statement": "MAG-021",
+        "entity": "The Vast",
+        "summary": "Childhood home of Robert Kelly, as described by his mother Moira. He grew up exploring the nearby woods and climbing trees.",
+        "date": "1980s-1990s",
+        "statement_giver": "Moira Kelly",
+        "supplemental": "Rural village mentioned as part of Robert's background. No supernatural events are described as occurring here.",
+        "archivist_note": "A standard location detail establishing the statement giver's past. No investigation undertaken here.",
+        "content_warnings": "Heights, falling, parental death mentioned",
+        "episode": "021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.125527277693571, 53.52159130636447]
+      },
+      "properties": {
+        "place": "Near Doncaster, South Yorkshire, England",
+        "statement": "MAG-021",
+        "entity": "The Vast",
+        "summary": "General area where Robert Kelly's final skydive was scheduled. An unopened parachute was later found buried in a field here, with no sign of its wearer.",
+        "date": "June 3, 2002",
+        "statement_giver": "Moira Kelly",
+        "supplemental": "Joseph Puce reported finding the parachute. No official skydiving activity was recorded for the area that day.",
+        "archivist_note": "Tim found a police report confirming the parachute discovery. It corroborates part of the statement but offers no explanation for Robert's disappearance.",
+        "content_warnings": "Missing persons, implied death",
+        "episode": "021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.7306930092053223, 52.59837837625182]
+      },
+      "properties": {
+        "place": "Yarmouth (Great Yarmouth), Norfolk, England",
+        "statement": "MAG-021",
+        "entity": "The Vast",
+        "summary": "Where Robert Kelly attended university and performed his first charity skydive, sparking his obsession with the sport.",
+        "date": "Late 1990s",
+        "statement_giver": "Moira Kelly",
+        "supplemental": "Mentioned as the starting point of Robert's skydiving hobby.",
+        "archivist_note": "A biographical detail. No follow-up conducted.",
+        "content_warnings": "None specific",
+        "episode": "021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.0809030006614915, 52.4148799045195]
+      },
+      "properties": {
+        "place": "Aberystwyth, Wales",
+        "statement": "MAG-021",
+        "entity": "The Vast",
+        "summary": "Robert sent a postcard to his mother from here, signing it 'your free-falling son'.",
+        "date": "Early 2000s",
+        "statement_giver": "Moira Kelly",
+        "supplemental": "A postcard from this location was among Moira's possessions.",
+        "archivist_note": "Minor personal detail within the statement.",
+        "content_warnings": "None specific",
+        "episode": "021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.2, 53.1]
+      },
+      "properties": {
+        "place": "Lincolnshire, England",
+        "statement": "MAG-021",
+        "entity": "The Vast",
+        "summary": "Site of Robert Kelly's supernatural disappearance. Moira witnessed the sky itself 'twist' and seemingly consume her son.",
+        "date": "June 2002",
+        "statement_giver": "Moira Kelly",
+        "supplemental": "A grassy hill visible from Moira's kitchen window. The event prompted her to move.",
+        "archivist_note": "The central, supernatural event of the statement. No physical evidence was found. Ms. Kelly declined a follow-up interview.",
+        "content_warnings": "Supernatural disappearance, body horror (implied), heights, parental trauma",
+        "episode": "021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.12386, 51.47234]
+      },
+      "properties": {
+        "place": "Stockwell, London, England",
+        "statement": "MAG-022",
+        "entity": "The Corruption",
+        "summary": "Martin Blackwood's flat where he was trapped for 13 days by Jane Prentiss, who knocked continuously at his door while worms tried to enter.",
+        "date": "February - March 2016",
+        "statement_giver": "Martin Blackwood",
+        "supplemental": "Located at the other end of the Northern Line from Archway. Martin had no landline and lost power during the siege, surviving on canned food and water.",
+        "archivist_note": "Site of a prolonged supernatural siege. Martin escaped only after Prentiss mysteriously left. No physical evidence of worms was found.",
+        "content_warnings": "Confinement, stalking, parasitic threat, isolation",
+        "episode": "022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.160886272458528, 51.48423973297109]
+      },
+      "properties": {
+        "place": "The Magnus Institute Archives, London, England",
+        "statement": "MAG-022",
+        "entity": "The Corruption / The Eye",
+        "summary": "Where Martin Blackwood sought refuge after being stalked by Jane Prentiss. Jonathan Sims offers him a secure room in the Archives due to its locks and sealed environment.",
+        "date": "March 12, 2016",
+        "statement_giver": "Martin Blackwood",
+        "supplemental": "Sims mentions the archives are 'well-sealed' and 'humidity controlled,' making them a safe location against Prentiss's worms. Sims plans to ask Elias for extra security.",
+        "archivist_note": "This marks a shift where the Archives become a direct setting in the narrative, not just a repository for statements. The Institute is now actively involved in ongoing supernatural events.",
+        "content_warnings": "Stalking, confinement, parasitic threat",
+        "episode": "022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.381977959689094, 48.22677852955445]
+      },
+      "properties": {
+        "place": "The Black Forest (Schwarzwald), near Schramberg, Baden-Württemberg, Germany",
+        "statement": "MAG-023",
+        "entity": "The Eye",
+        "summary": "Albrecht von Closen travels to his nephew Wilhelm's estate here during winter. He discovers an ancient, forgotten cemetery containing a mausoleum for 'Johann von Württemberg,' which leads to an underground vault filled with rotten books and engraved with the symbol of an eye.",
+        "date": "Winter 1815-1816",
+        "statement_giver": "Albrecht von Closen (via letter to Jonah Magnus)",
+        "supplemental": "The statement is a historical letter from 1816. The area is described as profoundly silent and isolating in winter. Local legend tells of a children's game called 'Johann's Steps' that ended in tragedy.",
+        "archivist_note": "Sims notes similarities between names in the letter and other statements but does not reach a firm conclusion.",
+        "content_warnings": "Scopophobia, Body horror, Discussions of: death, paranormal encounter",
+        "episode": "023",
+        "location_type": "supernatural_site_historical"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9965213256789336, 53.44422364226744]
+      },
+      "properties": {
+        "place": "Grandfather's House, Bootle, Liverpool, England",
+        "statement": "MAG-024",
+        "entity": "The Stranger / The Slaughter (?)", 
+        "summary": "Leanne Denikin inherits her grandfather’s house and discovers a locked attic containing a calliope organ and a trunk of mutilated dolls. Playing the instrument appears to trigger violent and escalating events.",
+        "date": "August 2004 - January 2005",
+        "statement_giver": "Leanne Denikin",
+        "supplemental": "The calliope and dolls are later stolen in a burglary. Joshua Drury is found dead days later with his jaw torn off. The circus troupe 'Circus of the Other' (Tsirk druh-grova), featuring Nikolai Denikin, is linked via a 1948 photograph from Minsk.",
+        "archivist_note": "Sims verifies the police reports. The actual Calliaphone organ is confirmed to be in the Magnus Institute's Artefact Storage, acquired in 2007.",
+        "content_warnings": "Clown dolls, Body mutilation & suffocation, Murder, Discussions of: Family death, auditory hallucinations",
+        "episode": "024",
+        "location_type": "residence_supernatural"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.566578063434477, 53.89747615140262]
+      },
+      "properties": {
+        "place": "Minsk, Belarus (Historical Context: 1948 Russia)",
+        "statement": "MAG-024",
+        "entity": "The Stranger",
+        "summary": "Historical location where a photograph of the 'Circus of the Other' (Tsirk druh-grova) was taken in 1948. The photo features the statement giver's grandfather, Nikolai Denikin, as the calliope organist, and Gregor Osinov as the ringmaster. This connects the supernatural artifacts to a specific carnival troupe.",
+        "date": "1948",
+        "statement_giver": "Leanne Denikin (via archival research)",
+        "supplemental": "Photo found in Gregory Petry's 'Freaks and Followers: Circuses in the 1940s'. The troupe's name, 'Circus of the Other', is noted as familiar by Sims.",
+        "archivist_note": "Jonathan Sims discovers this historical link during his research. The name of the troupe rings a bell but he finds no other references.",
+        "content_warnings": "None specific to this location",
+        "episode": "024",
+        "location_type": "historical_context"
+      }
+    }
+  ]
+}
+
