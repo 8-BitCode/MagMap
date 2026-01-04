@@ -18,13 +18,6 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   className: 'map-tiles'
 }).addTo(map);
 
-// Optional overlay
-L.tileLayer("https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png", {
-  maxZoom: 20,
-  opacity: 0.15,
-  attribution: '© Stadia Maps',
-  className: 'map-overlay'
-}).addTo(map);
 
 // Add attribution
 L.control.attribution({
